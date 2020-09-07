@@ -1,5 +1,5 @@
 # xss-spring-boot-starter
-> 在项目开发中系统会存在XSS漏洞
+> 在项目开发中系统会存在XSS漏洞，JAVA后端防止XSS攻击（SQL注入、HTML、SCRIPT）基础方法
 
 ### 一、说明
 
